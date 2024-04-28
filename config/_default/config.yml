@@ -1,5 +1,5 @@
 baseURL: ""
-title: "velak"
+title: "Malfunzionato Music Group"
 defaultContentLanguage: "en"
 languageCode: "en-us"
 
@@ -35,11 +35,11 @@ mediaTypes:
 
 outputFormats:
   xspf:
-    baseName: velak
+    baseName: malfunzionatomusicgroup
     isPlainText: true
     mediaType: application/xml
   m3u:
-    baseName: velak.m3u
+    baseName: malfunzionatomusicgroup.m3u
     isPlainText: true
 
 sitemap:

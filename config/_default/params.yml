@@ -1,32 +1,32 @@
-name: "VELAK"
-description: "Verein für Elektro Akustische Musik"
+name: "Malfunzionato Music Group"
+description: "Malfunzionato Music Group"
 keywords:
     [
-        "velak",
-        "verein",
-        "akustik",
-        "musik",
+        "malfunzionatomusicgroup",
+        "malfunzionatorecordsindependent",
+        "malfunzionatorecords",
+        "music",
         "events",
         "party",
-        "electronic",
-        "vienna",
+        "hiphop",
+        "rap",
     ]
-publisher: "velak"
-url: "https://velak.klingt.org"
-email: "velak@klingt.org"
-mailannounce: "velak-announce@klingt.org"
+publisher: "malfunzionatomusicgroup"
+url: "https://malfunzionatomusicgroup.com"
+email: "contact@malfunzionatomusicgroup.com"
+mailannounce: "mmg@malfunzionatomusicgroup.com"
 mailman: "https://klingt.org/cgi-bin/mailman"
 theme_color: "#000000"
 theme: "polivoks"
 dev: true
 
 contact:
-    email: "velak@klingt.org"
-    web: "https://velak.klingt.org"
+    email: "contact@malfunzionatomusicgroup.com"
+    web: "https://malfunzionatomusicgroup.com"
 
 github:
-    org: "verein-fuer-elektro-akustik"
-    repo: "velak.klingt.org"
+    org: "malfunzionatomusicgroupwb"
+    repo: "P0rc0D10"
 
 # livestream:
 #   host: "https://rrr.disktree.net:8443"
