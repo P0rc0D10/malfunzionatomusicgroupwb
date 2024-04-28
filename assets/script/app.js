@@ -1,6 +1,6 @@
 'use strict';
 
-console.info('%chttps://github.com/verein-fuer-elektro-akustik/velak.klingt.org', 'background:#000;color:#fff;padding:1rem;');
+console.info('%chttps://mmgrp.click/githubrepo', 'background:#000;color:#fff;padding:1rem;');
 
 //let theme;
 
